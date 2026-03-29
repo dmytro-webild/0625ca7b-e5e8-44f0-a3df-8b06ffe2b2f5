@@ -75,7 +75,7 @@ export default function LandingPage() {
           imageAlt: "Expert cleaning team",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-people-holding-flask_23-2149720816.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-people-holding-flask_23-2149720816.jpg?_wi=1",
           imageAlt: "Clean modern kitchen",
         },
         {
@@ -146,7 +146,7 @@ export default function LandingPage() {
           content: "Removing dust and debris after renovation for a ready-to-use space.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-people-holding-flask_23-2149720816.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-people-holding-flask_23-2149720816.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
